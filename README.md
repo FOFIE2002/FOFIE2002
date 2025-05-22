@@ -13,7 +13,7 @@
 
 ## 🧭 About Me
 
-- 🌱 I’m currently learning **React, TypeScript, and Next.js**
+- 🌱 I build with **React, TypeScript, and Next.js**
 - 💬 Ask me about **frontend frameworks, responsive design, or accessibility**
 - 👀 I’m interested in contributing to **open-source projects** and learning **design systems**
 - 📫 How to reach me: [fofiefopaelisabeth@gmail.com](mailto:fofiefopaelisabeth@gmail.com)
