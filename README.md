@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**FOFIE2002/FOFIE2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- GitHub Profile README Template -->
 
-Here are some ideas to get you started:
+<h1 align="center">Hi 👋, I'm FOFIE Fopa</h1>
+<h3 align="center">🚀 A Passionate Frontend Developer & Software Engineering Student</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Crafting+beautiful+UIs+with+code;Turning+ideas+into+interactive+experiences;&center=true&width=440&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" />
+</p>
+
+---
+
+## 🧭 About Me
+
+- 🌱 I’m currently learning **React, TypeScript, and Next.js**
+- 💬 Ask me about **frontend frameworks, responsive design, or accessibility**
+- 👀 I’m interested in contributing to **open-source projects** and learning **design systems**
+- 📫 How to reach me: [fofiefopaelisabeth@gmail.com](mailto:fofiefopaelisabeth@gmail.com)
+- 🧠 Fun fact: I love eating and trying new meals.
+
+---
+
+## 🛠️ Tech Stack
+
+```html
+Frontend: HTML • CSS • JavaScript • React • TailwindCSS • Bootstrap
+Design: Figma • canva
+Tools: Git • GitHub • VS Code • Chrome DevTools
+Currently exploring: TypeScript • Next.js • Framer Motion
+
