@@ -24,7 +24,7 @@
 ## 🛠️ Tech Stack
 
 ```html
-Frontend: HTML • CSS • JavaScript • React • TailwindCSS • Bootstrap
+Frontend: HTML • CSS • HTML5 • CSS3 • SASS • SCSS • JavaScript • React • TailwindCSS • Bootstrap • Typescript • Nextjs
 Design: Figma • canva
 Tools: Git • GitHub • VS Code • Chrome DevTools
 Currently exploring: TypeScript • Next.js • Framer Motion
