@@ -3,7 +3,7 @@
 <!-- GitHub Profile README Template -->
 
 <h1 align="center">Hi 👋, I'm FOFIE Fopa</h1>
-<h3 align="center">🚀 A Passionate Frontend Developer & Software Engineering Student</h3>
+<h3 align="center">🚀 A Passionate Frontend Developer & Software Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Crafting+beautiful+UIs+with+code;Turning+ideas+into+interactive+experiences;&center=true&width=440&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" />
